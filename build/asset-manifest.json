@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1997ec42.chunk.css",
+    "main.js": "/static/js/main.dc06941a.chunk.js",
+    "main.js.map": "/static/js/main.dc06941a.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/css/2.a99325e9.chunk.css": "/static/css/2.a99325e9.chunk.css",
+    "static/js/2.ba36f3a4.chunk.js": "/static/js/2.ba36f3a4.chunk.js",
+    "static/js/2.ba36f3a4.chunk.js.map": "/static/js/2.ba36f3a4.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.796f2fa6aed2ebee7305c1ee21e55ddb.js": "/precache-manifest.796f2fa6aed2ebee7305c1ee21e55ddb.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.a99325e9.chunk.css.map": "/static/css/2.a99325e9.chunk.css.map",
+    "static/css/main.1997ec42.chunk.css.map": "/static/css/main.1997ec42.chunk.css.map",
+    "static/media/addOne.png": "/static/media/addOne.cb373d5a.png",
+    "static/media/ads_two.png": "/static/media/ads_two.f3993b37.png",
+    "static/media/brotherX.png": "/static/media/brotherX.cb6a488c.png",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
+  }
+}
